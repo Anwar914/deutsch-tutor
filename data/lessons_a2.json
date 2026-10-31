@@ -1,0 +1,942 @@
+[
+  {
+    "id": "a2-01-vorstellen",
+    "level": "A2",
+    "title": "Neue Menschen kennenlernen",
+    "goal": "Du stellst dich vor und fragst nach Namen und Wohnort.",
+    "dialogue": [
+      "Ich heiße Samira und besuche seit einem Monat einen Deutschkurs.",
+      "Früher habe ich in Bonn gewohnt.",
+      "Jetzt wohne ich in Berlin, weil ich hier arbeite.",
+      "Mein Nachbar heißt Jonas.",
+      "Wir sprechen nach dem Kurs oft miteinander.",
+      "Manchmal verstehe ich ein Wort nicht.",
+      "Dann bitte ich ihn um eine Erklärung."
+    ],
+    "vocabulary": [
+      {
+        "term": "heißen",
+        "explanation_de": "einen Namen haben",
+        "meaning_ar": "يُدعى",
+        "example": "Ich heiße Samira.",
+        "answer": "heiße",
+        "translation_de": "Ich heiße Samira.",
+        "translation_ar": "اسمي سميرة."
+      },
+      {
+        "term": "wohnen",
+        "explanation_de": "an einem Ort leben",
+        "meaning_ar": "يسكن",
+        "example": "Ich wohne in Berlin.",
+        "answer": "wohne",
+        "translation_de": "Ich wohne in Berlin.",
+        "translation_ar": "أسكن في برلين."
+      },
+      {
+        "term": "lernen",
+        "explanation_de": "etwas Neues üben",
+        "meaning_ar": "يتعلم",
+        "example": "Wir lernen Deutsch.",
+        "answer": "lernen",
+        "translation_de": "Wir lernen Deutsch.",
+        "translation_ar": "نحن نتعلم الألمانية."
+      },
+      {
+        "term": "sprechen",
+        "explanation_de": "mit Worten etwas sagen",
+        "meaning_ar": "يتكلم",
+        "example": "Wir sprechen Deutsch.",
+        "answer": "sprechen",
+        "translation_de": "Wir sprechen Deutsch.",
+        "translation_ar": "نحن نتحدث الألمانية."
+      },
+      {
+        "term": "der Name",
+        "explanation_de": "so heißt eine Person",
+        "meaning_ar": "الاسم",
+        "example": "Mein Name ist Samira.",
+        "answer": "Name",
+        "translation_de": "Mein Name ist Samira.",
+        "translation_ar": "اسمي سميرة."
+      },
+      {
+        "term": "die Stadt",
+        "explanation_de": "ein Ort mit vielen Häusern",
+        "meaning_ar": "المدينة",
+        "example": "Die Stadt ist groß.",
+        "answer": "Stadt",
+        "translation_de": "Die Stadt ist groß.",
+        "translation_ar": "المدينة كبيرة."
+      },
+      {
+        "term": "zusammen",
+        "explanation_de": "mit anderen Personen",
+        "meaning_ar": "معًا",
+        "example": "Wir lernen zusammen.",
+        "answer": "zusammen",
+        "translation_de": "Wir lernen zusammen.",
+        "translation_ar": "نحن نتعلم معًا."
+      },
+      {
+        "term": "fragen",
+        "explanation_de": "eine Frage stellen",
+        "meaning_ar": "يسأل",
+        "example": "Ich frage Jonas.",
+        "answer": "frage",
+        "translation_de": "Ich frage Jonas.",
+        "translation_ar": "أنا أسأل يوناس."
+      }
+    ],
+    "grammar_de": "Das Verb steht im Aussagesatz an Position zwei: Ich heiße Samira.",
+    "grammar_ar": "يأتي الفعل في الموضع الثاني في الجملة الخبرية: Ich heiße Samira.",
+    "speaking": "Stelle dich vor und frage eine andere Person nach Name und Wohnort.",
+    "speaking_ar": "عرّف بنفسك واسأل شخصًا آخر عن اسمه ومكان سكنه.",
+    "culture": "Bei einem ersten formellen Kontakt passt Sie; im Kurs kann man gemeinsam das Du vereinbaren."
+  },
+  {
+    "id": "a2-02-einkaufen",
+    "level": "A2",
+    "title": "Auf dem Wochenmarkt",
+    "goal": "Du kaufst Lebensmittel und fragst nach Preisen.",
+    "dialogue": [
+      "Am Samstag kauft Karim auf dem Markt ein.",
+      "Er braucht Äpfel und ein Brot für das Frühstück.",
+      "Die Verkäuferin fragt, wie viel er möchte.",
+      "Karim nimmt ein Kilo Äpfel, weil seine Familie Obst mag.",
+      "Er fragt nach dem Preis für das Brot.",
+      "Danach bezahlt er mit seiner Karte.",
+      "Seine Einkäufe trägt er in einer eigenen Tasche nach Hause."
+    ],
+    "vocabulary": [
+      {
+        "term": "kaufen",
+        "explanation_de": "etwas gegen Geld bekommen",
+        "meaning_ar": "يشتري",
+        "example": "Ich kaufe Brot.",
+        "answer": "kaufe",
+        "translation_de": "Ich kaufe Brot.",
+        "translation_ar": "أشتري خبزًا."
+      },
+      {
+        "term": "der Apfel",
+        "explanation_de": "eine runde Frucht",
+        "meaning_ar": "التفاحة",
+        "example": "Der Apfel ist rot.",
+        "answer": "Apfel",
+        "translation_de": "Der Apfel ist rot.",
+        "translation_ar": "التفاحة حمراء."
+      },
+      {
+        "term": "das Brot",
+        "explanation_de": "ein Lebensmittel aus Mehl",
+        "meaning_ar": "الخبز",
+        "example": "Das Brot ist frisch.",
+        "answer": "Brot",
+        "translation_de": "Das Brot ist frisch.",
+        "translation_ar": "الخبز طازج."
+      },
+      {
+        "term": "kosten",
+        "explanation_de": "einen Preis haben",
+        "meaning_ar": "يكلّف",
+        "example": "Die Äpfel kosten zwei Euro.",
+        "answer": "kosten",
+        "translation_de": "Die Äpfel kosten zwei Euro.",
+        "translation_ar": "التفاح يكلف يورويْن."
+      },
+      {
+        "term": "bezahlen",
+        "explanation_de": "Geld für etwas geben",
+        "meaning_ar": "يدفع",
+        "example": "Ich bezahle mit Karte.",
+        "answer": "bezahle",
+        "translation_de": "Ich bezahle mit Karte.",
+        "translation_ar": "أدفع بالبطاقة."
+      },
+      {
+        "term": "die Tasche",
+        "explanation_de": "darin trägt man Dinge",
+        "meaning_ar": "الحقيبة",
+        "example": "Ich habe eine Tasche.",
+        "answer": "Tasche",
+        "translation_de": "Ich habe eine Tasche.",
+        "translation_ar": "لدي حقيبة."
+      },
+      {
+        "term": "der Preis",
+        "explanation_de": "so viel Geld kostet etwas",
+        "meaning_ar": "السعر",
+        "example": "Der Preis ist gut.",
+        "answer": "Preis",
+        "translation_de": "Der Preis ist gut.",
+        "translation_ar": "السعر جيد."
+      },
+      {
+        "term": "brauchen",
+        "explanation_de": "etwas nötig haben",
+        "meaning_ar": "يحتاج",
+        "example": "Ich brauche Obst.",
+        "answer": "brauche",
+        "translation_de": "Ich brauche Obst.",
+        "translation_ar": "أحتاج إلى فاكهة."
+      }
+    ],
+    "grammar_de": "Mit möchten formulierst du Wünsche: Ich möchte ein Brot kaufen.",
+    "grammar_ar": "نستخدم möchte لطلب شيء بأدب، ويأتي الفعل الآخر في نهاية الجملة.",
+    "speaking": "Kaufe Obst und Brot und frage nach Preis und Bezahlung.",
+    "speaking_ar": "اشترِ فاكهة وخبزًا واسأل عن السعر وطريقة الدفع.",
+    "culture": "Auf einem Markt können Zahlungsmöglichkeiten unterschiedlich sein; frage vor dem Einkauf nach."
+  },
+  {
+    "id": "a2-03-termin",
+    "level": "A2",
+    "title": "Einen Termin ändern",
+    "goal": "Du vereinbarst einen Termin und schlägst eine andere Uhrzeit vor.",
+    "dialogue": [
+      "Ich habe am Montag einen Termin in der Sprachschule.",
+      "Ich kann nicht kommen, weil ich arbeiten muss.",
+      "Deshalb möchte ich meinen Termin verschieben.",
+      "Passt Ihnen Dienstag um zehn Uhr?",
+      "Können Sie die Uhrzeit bitte wiederholen?",
+      "Dienstag um zehn Uhr passt mir gut.",
+      "Ich bringe meinen Ausweis mit."
+    ],
+    "vocabulary": [
+      {
+        "term": "der Termin",
+        "explanation_de": "eine vereinbarte Zeit",
+        "meaning_ar": "الموعد",
+        "example": "Ich habe einen Termin.",
+        "answer": "Termin",
+        "translation_de": "Ich habe einen Termin.",
+        "translation_ar": "لدي موعد."
+      },
+      {
+        "term": "die Zeit",
+        "explanation_de": "eine freie Stunde oder Minute",
+        "meaning_ar": "الوقت",
+        "example": "Ich habe Zeit.",
+        "answer": "Zeit",
+        "translation_de": "Ich habe Zeit.",
+        "translation_ar": "لدي وقت."
+      },
+      {
+        "term": "arbeiten",
+        "explanation_de": "einen Beruf ausüben",
+        "meaning_ar": "يعمل",
+        "example": "Ich muss arbeiten.",
+        "answer": "arbeiten",
+        "translation_de": "Ich muss arbeiten.",
+        "translation_ar": "يجب أن أعمل."
+      },
+      {
+        "term": "verschieben",
+        "explanation_de": "einen anderen Zeitpunkt wählen",
+        "meaning_ar": "يغيّر وقت الموعد",
+        "example": "Ich möchte den Termin verschieben.",
+        "answer": "verschieben",
+        "translation_de": "Ich möchte den Termin verschieben.",
+        "translation_ar": "أود تغيير موعدي."
+      },
+      {
+        "term": "wiederholen",
+        "explanation_de": "noch einmal sagen",
+        "meaning_ar": "يكرر",
+        "example": "Bitte wiederholen Sie die Uhrzeit.",
+        "answer": "wiederholen",
+        "translation_de": "Bitte wiederholen Sie die Uhrzeit.",
+        "translation_ar": "يرجى تكرار الساعة."
+      },
+      {
+        "term": "der Ausweis",
+        "explanation_de": "ein Dokument zur Identität",
+        "meaning_ar": "وثيقة الهوية",
+        "example": "Ich bringe meinen Ausweis mit.",
+        "answer": "Ausweis",
+        "translation_de": "Ich bringe meinen Ausweis mit.",
+        "translation_ar": "أحضر وثيقة هويتي معي."
+      },
+      {
+        "term": "passen",
+        "explanation_de": "geeignet sein",
+        "meaning_ar": "يناسب",
+        "example": "Dienstag passt gut.",
+        "answer": "passt",
+        "translation_de": "Dienstag passt gut.",
+        "translation_ar": "الثلاثاء مناسب."
+      },
+      {
+        "term": "mitbringen",
+        "explanation_de": "etwas dabei haben",
+        "meaning_ar": "يحضر معه",
+        "example": "Bitte bringen Sie Ihren Ausweis mit.",
+        "answer": "bringen",
+        "translation_de": "Bitte bringen Sie Ihren Ausweis mit.",
+        "translation_ar": "يرجى إحضار وثيقة هويتك."
+      }
+    ],
+    "grammar_de": "Nach weil steht das konjugierte Verb am Ende: weil ich arbeiten muss.",
+    "grammar_ar": "بعد weil يأتي الفعل المصرف في النهاية: weil ich arbeiten muss.",
+    "speaking": "Rufe in der Sprachschule an und vereinbare einen passenden Termin.",
+    "speaking_ar": "اتصل بمدرسة اللغة واتفق على موعد مناسب.",
+    "culture": "Wiederhole Tag und Uhrzeit zur Sicherheit; welche Unterlagen nötig sind, hängt vom jeweiligen Termin ab."
+  },
+  {
+    "id": "a2-04-bus",
+    "level": "A2",
+    "title": "Mit dem Bus unterwegs",
+    "goal": "Du fragst nach einer Verbindung und findest die richtige Haltestelle.",
+    "dialogue": [
+      "Nour wartet an der Haltestelle auf den Bus.",
+      "Sie möchte zum Bahnhof fahren.",
+      "Auf der Anzeige steht, dass der Bus später kommt.",
+      "Nour fragt einen anderen Fahrgast nach einer Verbindung.",
+      "Er empfiehlt ihr die Linie fünf.",
+      "Sie kauft eine Fahrkarte und steigt ein.",
+      "Am Bahnhof muss sie in einen Zug umsteigen."
+    ],
+    "vocabulary": [
+      {
+        "term": "die Haltestelle",
+        "explanation_de": "hier hält der Bus",
+        "meaning_ar": "موقف الحافلة",
+        "example": "Die Haltestelle ist dort.",
+        "answer": "Haltestelle",
+        "translation_de": "Die Haltestelle ist dort.",
+        "translation_ar": "موقف الحافلة هناك."
+      },
+      {
+        "term": "der Bahnhof",
+        "explanation_de": "hier fahren Züge ab",
+        "meaning_ar": "محطة القطار",
+        "example": "Ich fahre zum Bahnhof.",
+        "answer": "Bahnhof",
+        "translation_de": "Ich fahre zum Bahnhof.",
+        "translation_ar": "أذهب إلى محطة القطار."
+      },
+      {
+        "term": "die Fahrkarte",
+        "explanation_de": "ein Ticket für die Fahrt",
+        "meaning_ar": "تذكرة السفر",
+        "example": "Ich kaufe eine Fahrkarte.",
+        "answer": "Fahrkarte",
+        "translation_de": "Ich kaufe eine Fahrkarte.",
+        "translation_ar": "أشتري تذكرة."
+      },
+      {
+        "term": "fahren",
+        "explanation_de": "mit einem Fahrzeug unterwegs sein",
+        "meaning_ar": "يذهب بوسيلة نقل",
+        "example": "Wir fahren mit dem Bus.",
+        "answer": "fahren",
+        "translation_de": "Wir fahren mit dem Bus.",
+        "translation_ar": "نذهب بالحافلة."
+      },
+      {
+        "term": "einsteigen",
+        "explanation_de": "in ein Fahrzeug gehen",
+        "meaning_ar": "يركب",
+        "example": "Ich steige hier ein.",
+        "answer": "steige",
+        "translation_de": "Ich steige hier ein.",
+        "translation_ar": "أركب هنا."
+      },
+      {
+        "term": "aussteigen",
+        "explanation_de": "ein Fahrzeug verlassen",
+        "meaning_ar": "ينزل",
+        "example": "Am Bahnhof steige ich aus.",
+        "answer": "aus",
+        "translation_de": "Am Bahnhof steige ich aus.",
+        "translation_ar": "أنزل عند محطة القطار."
+      },
+      {
+        "term": "umsteigen",
+        "explanation_de": "das Fahrzeug wechseln",
+        "meaning_ar": "يبدّل وسيلة النقل",
+        "example": "Ich muss umsteigen.",
+        "answer": "umsteigen",
+        "translation_de": "Ich muss umsteigen.",
+        "translation_ar": "علي تبديل وسيلة النقل."
+      },
+      {
+        "term": "die Verspätung",
+        "explanation_de": "später als geplant",
+        "meaning_ar": "التأخير",
+        "example": "Der Bus hat Verspätung.",
+        "answer": "Verspätung",
+        "translation_de": "Der Bus hat Verspätung.",
+        "translation_ar": "الحافلة متأخرة."
+      }
+    ],
+    "grammar_de": "Trennbare Verben: Ich steige am Bahnhof aus. Mit müssen: Ich muss aussteigen.",
+    "grammar_ar": "الفعل القابل للانفصال: Ich steige aus. ومع müssen يبقى كاملًا: Ich muss aussteigen.",
+    "speaking": "Frage nach einem Bus zum Bahnhof und erkläre, wo du aussteigen möchtest.",
+    "speaking_ar": "اسأل عن حافلة إلى محطة القطار واذكر أين تريد النزول.",
+    "culture": "Tickets und Entwertung unterscheiden sich je nach Verkehrsverbund; lies die Hinweise am Automaten."
+  },
+  {
+    "id": "a2-05-wohnen",
+    "level": "A2",
+    "title": "Ein Problem in der Wohnung",
+    "goal": "Du beschreibst eine Wohnung und meldest einen Defekt.",
+    "dialogue": [
+      "Seit gestern lässt sich das Fenster in der Küche nicht schließen.",
+      "Leila ruft ihre Vermieterin an, weil es in der Wohnung kalt ist.",
+      "Sie beschreibt das Problem möglichst genau.",
+      "Die Vermieterin möchte einen Handwerker schicken.",
+      "Leila ist am Freitag zu Hause und hat Zeit.",
+      "Sie vereinbaren einen Termin am Vormittag.",
+      "Leila schreibt sich die Uhrzeit auf."
+    ],
+    "vocabulary": [
+      {
+        "term": "die Wohnung",
+        "explanation_de": "Räume zum Wohnen",
+        "meaning_ar": "الشقة",
+        "example": "Meine Wohnung ist hell.",
+        "answer": "Wohnung",
+        "translation_de": "Meine Wohnung ist hell.",
+        "translation_ar": "شقتي مضيئة."
+      },
+      {
+        "term": "das Zimmer",
+        "explanation_de": "ein Raum",
+        "meaning_ar": "الغرفة",
+        "example": "Das Zimmer ist groß.",
+        "answer": "Zimmer",
+        "translation_de": "Das Zimmer ist groß.",
+        "translation_ar": "الغرفة كبيرة."
+      },
+      {
+        "term": "die Küche",
+        "explanation_de": "hier kocht man",
+        "meaning_ar": "المطبخ",
+        "example": "Die Küche ist klein.",
+        "answer": "Küche",
+        "translation_de": "Die Küche ist klein.",
+        "translation_ar": "المطبخ صغير."
+      },
+      {
+        "term": "das Fenster",
+        "explanation_de": "eine Öffnung mit Glas",
+        "meaning_ar": "النافذة",
+        "example": "Das Fenster ist kaputt.",
+        "answer": "Fenster",
+        "translation_de": "Das Fenster ist kaputt.",
+        "translation_ar": "النافذة معطلة."
+      },
+      {
+        "term": "kaputt",
+        "explanation_de": "nicht mehr in Ordnung",
+        "meaning_ar": "معطل",
+        "example": "Die Lampe ist kaputt.",
+        "answer": "kaputt",
+        "translation_de": "Die Lampe ist kaputt.",
+        "translation_ar": "المصباح معطل."
+      },
+      {
+        "term": "die Vermieterin",
+        "explanation_de": "sie vermietet die Wohnung",
+        "meaning_ar": "المؤجرة",
+        "example": "Ich rufe die Vermieterin an.",
+        "answer": "Vermieterin",
+        "translation_de": "Ich rufe die Vermieterin an.",
+        "translation_ar": "أتصل بالمؤجرة."
+      },
+      {
+        "term": "die Reparatur",
+        "explanation_de": "etwas wieder in Ordnung bringen",
+        "meaning_ar": "الإصلاح",
+        "example": "Die Reparatur ist am Freitag.",
+        "answer": "Reparatur",
+        "translation_de": "Die Reparatur ist am Freitag.",
+        "translation_ar": "الإصلاح يوم الجمعة."
+      },
+      {
+        "term": "zu Hause",
+        "explanation_de": "in der eigenen Wohnung",
+        "meaning_ar": "في المنزل",
+        "example": "Ich bin zu Hause.",
+        "answer": "zu Hause",
+        "translation_de": "Ich bin zu Hause.",
+        "translation_ar": "أنا في المنزل."
+      }
+    ],
+    "grammar_de": "Beschreibe mit sein und einem Adjektiv: Das Fenster ist kaputt; die Küche ist klein.",
+    "grammar_ar": "نصف الأشياء باستخدام sein وصفة: Das Fenster ist kaputt.",
+    "speaking": "Beschreibe deine Wohnung und melde ein kaputtes Fenster.",
+    "speaking_ar": "صف مسكنك وأبلغ عن نافذة معطلة.",
+    "culture": "Eine konkrete Beschreibung und ein vereinbarter Termin erleichtern die Kommunikation mit der Hausverwaltung."
+  },
+  {
+    "id": "a2-06-arzt",
+    "level": "A2",
+    "title": "In der Arztpraxis anrufen",
+    "goal": "Du beschreibst dein Befinden und fragst nach einem Termin.",
+    "dialogue": [
+      "Omar fühlt sich seit zwei Tagen nicht gut.",
+      "Er ruft in der Praxis an und beschreibt seinen Husten.",
+      "Die Mitarbeiterin fragt, seit wann er die Beschwerden hat.",
+      "Omar antwortet langsam und nennt seinen Namen.",
+      "Er bekommt einen Termin am Nachmittag.",
+      "Er fragt, was er mitbringen soll.",
+      "Zum Schluss wiederholt er die Uhrzeit."
+    ],
+    "vocabulary": [
+      {
+        "term": "die Praxis",
+        "explanation_de": "Arbeitsort eines Arztes",
+        "meaning_ar": "العيادة",
+        "example": "Ich rufe in der Praxis an.",
+        "answer": "Praxis",
+        "translation_de": "Ich rufe in der Praxis an.",
+        "translation_ar": "أتصل بالعيادة."
+      },
+      {
+        "term": "der Husten",
+        "explanation_de": "ein häufiges Krankheitszeichen",
+        "meaning_ar": "السعال",
+        "example": "Ich habe Husten.",
+        "answer": "Husten",
+        "translation_de": "Ich habe Husten.",
+        "translation_ar": "لدي سعال."
+      },
+      {
+        "term": "das Fieber",
+        "explanation_de": "eine erhöhte Körpertemperatur",
+        "meaning_ar": "الحمى",
+        "example": "Haben Sie Fieber?",
+        "answer": "Fieber",
+        "translation_de": "Haben Sie Fieber?",
+        "translation_ar": "هل لديك حمى؟"
+      },
+      {
+        "term": "krank",
+        "explanation_de": "nicht gesund",
+        "meaning_ar": "مريض",
+        "example": "Ich bin krank.",
+        "answer": "krank",
+        "translation_de": "Ich bin krank.",
+        "translation_ar": "أنا مريض."
+      },
+      {
+        "term": "seit",
+        "explanation_de": "nennt den Beginn einer Dauer",
+        "meaning_ar": "منذ",
+        "example": "Ich bin seit gestern krank.",
+        "answer": "seit",
+        "translation_de": "Ich bin seit gestern krank.",
+        "translation_ar": "أنا مريض منذ أمس."
+      },
+      {
+        "term": "der Nachmittag",
+        "explanation_de": "die Zeit nach Mittag",
+        "meaning_ar": "بعد الظهر",
+        "example": "Ich komme am Nachmittag.",
+        "answer": "Nachmittag",
+        "translation_de": "Ich komme am Nachmittag.",
+        "translation_ar": "آتي بعد الظهر."
+      },
+      {
+        "term": "der Name",
+        "explanation_de": "so heißt eine Person",
+        "meaning_ar": "الاسم",
+        "example": "Mein Name ist Omar.",
+        "answer": "Name",
+        "translation_de": "Mein Name ist Omar.",
+        "translation_ar": "اسمي عمر."
+      },
+      {
+        "term": "verstehen",
+        "explanation_de": "die Bedeutung erkennen",
+        "meaning_ar": "يفهم",
+        "example": "Ich verstehe die Frage nicht.",
+        "answer": "verstehe",
+        "translation_de": "Ich verstehe die Frage nicht.",
+        "translation_ar": "لا أفهم السؤال."
+      }
+    ],
+    "grammar_de": "Mit seit nennst du einen Beginn oder eine Dauer: seit heute; seit zwei Tagen.",
+    "grammar_ar": "نستخدم seit لبداية حالة مستمرة أو مدتها: seit heute، seit zwei Tagen.",
+    "speaking": "Rufe in einer Praxis an und bitte wegen Husten um einen Termin.",
+    "speaking_ar": "اتصل بعيادة واطلب موعدًا بسبب السعال.",
+    "culture": "Dies ist ein Sprachlern-Szenario. Über medizinische Dringlichkeit und Behandlung entscheidet medizinisches Fachpersonal."
+  },
+  {
+    "id": "a2-07-arbeit",
+    "level": "A2",
+    "title": "Am Arbeitsplatz nachfragen",
+    "goal": "Du klärst Aufgaben und Arbeitszeiten.",
+    "dialogue": [
+      "Heute beginnt Farid seine neue Arbeit.",
+      "Seine Kollegin Eva zeigt ihm den Arbeitsplatz.",
+      "Sie erklärt, welche Aufgabe er zuerst erledigen soll.",
+      "Farid fragt nach, weil er ein Wort nicht versteht.",
+      "Eva zeigt ihm ein Beispiel.",
+      "Danach kann er die Aufgabe selbst machen.",
+      "In der Pause sprechen sie über ihre Arbeitszeiten."
+    ],
+    "vocabulary": [
+      {
+        "term": "die Arbeit",
+        "explanation_de": "berufliche Tätigkeit",
+        "meaning_ar": "العمل",
+        "example": "Die Arbeit beginnt um acht Uhr.",
+        "answer": "Arbeit",
+        "translation_de": "Die Arbeit beginnt um acht Uhr.",
+        "translation_ar": "يبدأ العمل الساعة الثامنة."
+      },
+      {
+        "term": "die Kollegin",
+        "explanation_de": "eine Frau im selben Team",
+        "meaning_ar": "الزميلة",
+        "example": "Meine Kollegin heißt Eva.",
+        "answer": "Kollegin",
+        "translation_de": "Meine Kollegin heißt Eva.",
+        "translation_ar": "اسم زميلتي إيفا."
+      },
+      {
+        "term": "die Aufgabe",
+        "explanation_de": "etwas, das man erledigen soll",
+        "meaning_ar": "المهمة",
+        "example": "Ich verstehe die Aufgabe.",
+        "answer": "Aufgabe",
+        "translation_de": "Ich verstehe die Aufgabe.",
+        "translation_ar": "أفهم المهمة."
+      },
+      {
+        "term": "die Pause",
+        "explanation_de": "eine Unterbrechung",
+        "meaning_ar": "الاستراحة",
+        "example": "Die Pause beginnt jetzt.",
+        "answer": "Pause",
+        "translation_de": "Die Pause beginnt jetzt.",
+        "translation_ar": "تبدأ الاستراحة الآن."
+      },
+      {
+        "term": "beginnen",
+        "explanation_de": "anfangen",
+        "meaning_ar": "يبدأ",
+        "example": "Wir beginnen um acht Uhr.",
+        "answer": "beginnen",
+        "translation_de": "Wir beginnen um acht Uhr.",
+        "translation_ar": "نبدأ الساعة الثامنة."
+      },
+      {
+        "term": "erklären",
+        "explanation_de": "etwas verständlich machen",
+        "meaning_ar": "يشرح",
+        "example": "Eva erklärt die Aufgabe.",
+        "answer": "erklärt",
+        "translation_de": "Eva erklärt die Aufgabe.",
+        "translation_ar": "تشرح إيفا المهمة."
+      },
+      {
+        "term": "helfen",
+        "explanation_de": "jemanden unterstützen",
+        "meaning_ar": "يساعد",
+        "example": "Können Sie mir helfen?",
+        "answer": "helfen",
+        "translation_de": "Können Sie mir helfen?",
+        "translation_ar": "هل يمكنك مساعدتي؟"
+      },
+      {
+        "term": "nachfragen",
+        "explanation_de": "um weitere Erklärung bitten",
+        "meaning_ar": "يستفسر",
+        "example": "Ich frage noch einmal nach.",
+        "answer": "nach",
+        "translation_de": "Ich frage noch einmal nach.",
+        "translation_ar": "أستفسر مرة أخرى."
+      }
+    ],
+    "grammar_de": "Fragen mit W-Wort: Wann beginnt die Arbeit? Ohne W-Wort: Beginnt die Arbeit um acht Uhr?",
+    "grammar_ar": "في سؤال أداة الاستفهام يأتي الفعل بعدها؛ وفي سؤال نعم أو لا يبدأ السؤال بالفعل.",
+    "speaking": "Frage eine Kollegin nach einer Aufgabe und deiner Arbeitszeit.",
+    "speaking_ar": "اسأل زميلة عن مهمة وعن وقت عملك.",
+    "culture": "Nachfragen und Absprachen helfen im Team; konkrete Arbeitszeiten hängen vom jeweiligen Arbeitsplatz ab."
+  },
+  {
+    "id": "a2-08-schule",
+    "level": "A2",
+    "title": "Kontakt mit der Schule",
+    "goal": "Du fragst nach einem Gespräch und Informationen für den Schulalltag.",
+    "dialogue": [
+      "Rana möchte mit der Lehrerin ihres Sohnes sprechen.",
+      "Sie schreibt eine kurze Nachricht und bittet um einen Termin.",
+      "Ihr Sohn versteht die Hausaufgaben manchmal nicht.",
+      "Frau Weber schlägt ein Gespräch nach dem Unterricht vor.",
+      "Rana bestätigt den Termin am Freitag.",
+      "Sie notiert vorher ihre Fragen.",
+      "Beim Gespräch bittet sie um ein Beispiel für die Aufgabe."
+    ],
+    "vocabulary": [
+      {
+        "term": "die Schule",
+        "explanation_de": "ein Ort zum Lernen",
+        "meaning_ar": "المدرسة",
+        "example": "Die Schule ist hier.",
+        "answer": "Schule",
+        "translation_de": "Die Schule ist hier.",
+        "translation_ar": "المدرسة هنا."
+      },
+      {
+        "term": "die Lehrerin",
+        "explanation_de": "sie unterrichtet eine Klasse",
+        "meaning_ar": "المعلمة",
+        "example": "Die Lehrerin heißt Frau Weber.",
+        "answer": "Lehrerin",
+        "translation_de": "Die Lehrerin heißt Frau Weber.",
+        "translation_ar": "اسم المعلمة السيدة فيبر."
+      },
+      {
+        "term": "der Unterricht",
+        "explanation_de": "gemeinsames Lernen in der Klasse",
+        "meaning_ar": "الدرس",
+        "example": "Der Unterricht beginnt jetzt.",
+        "answer": "Unterricht",
+        "translation_de": "Der Unterricht beginnt jetzt.",
+        "translation_ar": "يبدأ الدرس الآن."
+      },
+      {
+        "term": "die Hausaufgaben",
+        "explanation_de": "Aufgaben für zu Hause",
+        "meaning_ar": "الواجبات المنزلية",
+        "example": "Ich habe eine Frage zu den Hausaufgaben.",
+        "answer": "Hausaufgaben",
+        "translation_de": "Ich habe eine Frage zu den Hausaufgaben.",
+        "translation_ar": "لدي سؤال عن الواجبات المنزلية."
+      },
+      {
+        "term": "das Gespräch",
+        "explanation_de": "mehrere Menschen sprechen miteinander",
+        "meaning_ar": "المحادثة",
+        "example": "Das Gespräch ist am Freitag.",
+        "answer": "Gespräch",
+        "translation_de": "Das Gespräch ist am Freitag.",
+        "translation_ar": "المحادثة يوم الجمعة."
+      },
+      {
+        "term": "die Nachricht",
+        "explanation_de": "eine kurze Mitteilung",
+        "meaning_ar": "الرسالة",
+        "example": "Ich schreibe eine Nachricht.",
+        "answer": "Nachricht",
+        "translation_de": "Ich schreibe eine Nachricht.",
+        "translation_ar": "أكتب رسالة."
+      },
+      {
+        "term": "bestätigen",
+        "explanation_de": "sagen, dass etwas richtig oder vereinbart ist",
+        "meaning_ar": "يؤكد",
+        "example": "Ich bestätige den Termin.",
+        "answer": "bestätige",
+        "translation_de": "Ich bestätige den Termin.",
+        "translation_ar": "أؤكد الموعد."
+      },
+      {
+        "term": "die Frage",
+        "explanation_de": "man möchte etwas wissen",
+        "meaning_ar": "السؤال",
+        "example": "Ich habe eine Frage.",
+        "answer": "Frage",
+        "translation_de": "Ich habe eine Frage.",
+        "translation_ar": "لدي سؤال."
+      }
+    ],
+    "grammar_de": "Mit mit steht der Dativ: mit der Lehrerin; mit dem Lehrer.",
+    "grammar_ar": "بعد mit نستخدم الداتيف: mit der Lehrerin وmit dem Lehrer.",
+    "speaking": "Bitte eine Lehrerin um ein Gespräch über die Hausaufgaben.",
+    "speaking_ar": "اطلب من معلمة موعدًا للحديث عن الواجبات المنزلية.",
+    "culture": "Schulen nutzen unterschiedliche Kontaktwege; frage nach, ob Nachrichten per App, E-Mail oder Heft gewünscht sind."
+  },
+  {
+    "id": "a2-09-behoerde",
+    "level": "A2",
+    "title": "Informationen im Bürgerbüro",
+    "goal": "Du fragst nach einem Formular und den benötigten Unterlagen.",
+    "dialogue": [
+      "Yasin hat einen Termin im Bürgerbüro vereinbart.",
+      "Vor dem Besuch liest er seine Terminbestätigung.",
+      "Er versteht nicht genau, welche Unterlagen er braucht.",
+      "Deshalb fragt er beim Büro nach.",
+      "Eine Mitarbeiterin erklärt ihm die Liste.",
+      "Yasin legt seine Dokumente in eine Mappe.",
+      "Beim Termin bittet er um Hilfe mit einem Formular."
+    ],
+    "vocabulary": [
+      {
+        "term": "das Bürgerbüro",
+        "explanation_de": "eine kommunale Anlaufstelle",
+        "meaning_ar": "مكتب خدمات المواطنين",
+        "example": "Ich gehe zum Bürgerbüro.",
+        "answer": "Bürgerbüro",
+        "translation_de": "Ich gehe zum Bürgerbüro.",
+        "translation_ar": "أذهب إلى مكتب خدمات المواطنين."
+      },
+      {
+        "term": "das Formular",
+        "explanation_de": "ein Blatt mit Feldern zum Ausfüllen",
+        "meaning_ar": "الاستمارة",
+        "example": "Ich brauche ein Formular.",
+        "answer": "Formular",
+        "translation_de": "Ich brauche ein Formular.",
+        "translation_ar": "أحتاج إلى استمارة."
+      },
+      {
+        "term": "die Unterlagen",
+        "explanation_de": "benötigte Dokumente",
+        "meaning_ar": "الوثائق",
+        "example": "Meine Unterlagen sind hier.",
+        "answer": "Unterlagen",
+        "translation_de": "Meine Unterlagen sind hier.",
+        "translation_ar": "وثائقي هنا."
+      },
+      {
+        "term": "der Eingang",
+        "explanation_de": "hier geht man hinein",
+        "meaning_ar": "المدخل",
+        "example": "Der Eingang ist rechts.",
+        "answer": "Eingang",
+        "translation_de": "Der Eingang ist rechts.",
+        "translation_ar": "المدخل على اليمين."
+      },
+      {
+        "term": "warten",
+        "explanation_de": "bleiben, bis etwas geschieht",
+        "meaning_ar": "ينتظر",
+        "example": "Bitte warten Sie hier.",
+        "answer": "warten",
+        "translation_de": "Bitte warten Sie hier.",
+        "translation_ar": "يرجى الانتظار هنا."
+      },
+      {
+        "term": "ausfüllen",
+        "explanation_de": "Informationen in Felder schreiben",
+        "meaning_ar": "يملأ",
+        "example": "Ich fülle das Formular aus.",
+        "answer": "fülle",
+        "translation_de": "Ich fülle das Formular aus.",
+        "translation_ar": "أملأ الاستمارة."
+      },
+      {
+        "term": "unterschreiben",
+        "explanation_de": "den eigenen Namen zur Bestätigung schreiben",
+        "meaning_ar": "يوقّع",
+        "example": "Ich unterschreibe hier.",
+        "answer": "unterschreibe",
+        "translation_de": "Ich unterschreibe hier.",
+        "translation_ar": "أوقّع هنا."
+      },
+      {
+        "term": "die Kopie",
+        "explanation_de": "eine zweite gleiche Fassung",
+        "meaning_ar": "النسخة",
+        "example": "Ich brauche eine Kopie.",
+        "answer": "Kopie",
+        "translation_de": "Ich brauche eine Kopie.",
+        "translation_ar": "أحتاج إلى نسخة."
+      }
+    ],
+    "grammar_de": "Frage nach Dingen im Plural mit welche: Welche Unterlagen brauche ich?",
+    "grammar_ar": "للسؤال عن أشياء بالجمع نستخدم welche: Welche Unterlagen brauche ich?",
+    "speaking": "Frage im Bürgerbüro nach einem Formular und den erforderlichen Unterlagen.",
+    "speaking_ar": "اسأل في مكتب المواطنين عن استمارة والوثائق المطلوبة.",
+    "culture": "Anforderungen unterscheiden sich nach Anliegen und Ort; maßgeblich ist die Auskunft der zuständigen Stelle."
+  },
+  {
+    "id": "a2-10-nachbarschaft",
+    "level": "A2",
+    "title": "Gemeinsam etwas planen",
+    "goal": "Du lädst jemanden ein und vereinbarst einen Treffpunkt.",
+    "dialogue": [
+      "Am Samstag möchte Hana ihre Nachbarin treffen.",
+      "Sie schlägt einen Spaziergang im Park vor.",
+      "Die Nachbarin hat erst am Nachmittag Zeit.",
+      "Deshalb treffen sie sich um drei Uhr am Eingang.",
+      "Hana bringt Wasser für beide mit.",
+      "Wenn es regnet, gehen sie in ein Café.",
+      "Sie freuen sich auf den gemeinsamen Nachmittag."
+    ],
+    "vocabulary": [
+      {
+        "term": "frei haben",
+        "explanation_de": "an diesem Tag nicht arbeiten",
+        "meaning_ar": "لديه إجازة",
+        "example": "Am Samstag habe ich frei.",
+        "answer": "frei",
+        "translation_de": "Am Samstag habe ich frei.",
+        "translation_ar": "لدي إجازة يوم السبت."
+      },
+      {
+        "term": "der Park",
+        "explanation_de": "eine öffentliche Grünanlage",
+        "meaning_ar": "الحديقة",
+        "example": "Wir treffen uns im Park.",
+        "answer": "Park",
+        "translation_de": "Wir treffen uns im Park.",
+        "translation_ar": "نلتقي في الحديقة."
+      },
+      {
+        "term": "treffen",
+        "explanation_de": "mit jemandem zusammenkommen",
+        "meaning_ar": "يلتقي",
+        "example": "Wir treffen uns morgen.",
+        "answer": "treffen",
+        "translation_de": "Wir treffen uns morgen.",
+        "translation_ar": "نلتقي غدًا."
+      },
+      {
+        "term": "mitbringen",
+        "explanation_de": "etwas dabei haben",
+        "meaning_ar": "يحضر معه",
+        "example": "Ich bringe Wasser mit.",
+        "answer": "Wasser",
+        "translation_de": "Ich bringe Wasser mit.",
+        "translation_ar": "أحضر ماء معي."
+      },
+      {
+        "term": "der Treffpunkt",
+        "explanation_de": "der vereinbarte Ort",
+        "meaning_ar": "مكان اللقاء",
+        "example": "Der Treffpunkt ist am Eingang.",
+        "answer": "Treffpunkt",
+        "translation_de": "Der Treffpunkt ist am Eingang.",
+        "translation_ar": "مكان اللقاء عند المدخل."
+      },
+      {
+        "term": "einladen",
+        "explanation_de": "jemanden zu etwas bitten",
+        "meaning_ar": "يدعو",
+        "example": "Ich lade meine Nachbarin ein.",
+        "answer": "lade",
+        "translation_de": "Ich lade meine Nachbarin ein.",
+        "translation_ar": "أدعو جارتي."
+      },
+      {
+        "term": "der Spaziergang",
+        "explanation_de": "zu Fuß unterwegs sein",
+        "meaning_ar": "النزهة سيرًا",
+        "example": "Der Spaziergang beginnt um drei Uhr.",
+        "answer": "Spaziergang",
+        "translation_de": "Der Spaziergang beginnt um drei Uhr.",
+        "translation_ar": "تبدأ النزهة الساعة الثالثة."
+      },
+      {
+        "term": "regnen",
+        "explanation_de": "Wasser fällt aus Wolken",
+        "meaning_ar": "تمطر",
+        "example": "Heute regnet es.",
+        "answer": "regnet",
+        "translation_de": "Heute regnet es.",
+        "translation_ar": "تمطر اليوم."
+      }
+    ],
+    "grammar_de": "Mit wenn formulierst du eine Bedingung: Wenn es regnet, gehen wir ins Café.",
+    "grammar_ar": "نستخدم wenn للشرط، ويأتي الفعل في نهاية جملتها: Wenn es regnet, gehen wir ins Café.",
+    "speaking": "Lade eine Nachbarin zu einem Spaziergang ein und vereinbare Zeit und Treffpunkt.",
+    "speaking_ar": "ادعُ جارة إلى نزهة واتفقا على الوقت ومكان اللقاء.",
+    "culture": "Einladungen darf man freundlich annehmen oder ablehnen; eine Alternative hilft beim gemeinsamen Planen."
+  }
+]

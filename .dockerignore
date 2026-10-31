@@ -1,0 +1,14 @@
+.git
+.venv
+.devdeps
+.python
+.uv-cache
+__pycache__
+.pytest_cache
+.ruff_cache
+storage
+dist
+.streamlit/secrets.toml
+.env
+*.sqlite*
+CODE.md

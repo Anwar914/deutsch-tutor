@@ -1,0 +1,14 @@
+services:
+  tutor:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+      TUTOR_DB_PATH: /app/storage/tutor.sqlite3
+    volumes:
+      - tutor-data:/app/storage
+    restart: unless-stopped
+volumes:
+  tutor-data:

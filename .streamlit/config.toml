@@ -1,0 +1,22 @@
+[server]
+headless = true
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+font = "sans-serif"
+baseRadius = "large"
+
+[theme.light]
+primaryColor = "#126B60"
+backgroundColor = "#FCFBF8"
+secondaryBackgroundColor = "#F0F3EF"
+textColor = "#182E2B"
+
+[theme.dark]
+primaryColor = "#168575"
+backgroundColor = "#111E20"
+secondaryBackgroundColor = "#1B2D30"
+textColor = "#EFF6F3"
